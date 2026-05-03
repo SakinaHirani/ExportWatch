@@ -6,3 +6,4 @@ plotly
 requests
 openai
 python-dotenv
+plotly==5.18.0
